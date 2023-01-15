@@ -1,0 +1,63 @@
+## Homepage
+title = "Barefoot Bushwalk"
+titleSeparator = "-"
+titleAddition = "title addition"
+description = "Hinode is a clean blog theme for your Hugo site based on Bootstrap 5."
+
+## Open Graph
+images = ["logo.png"]
+ogLocale = "en_GB"
+domainTLD = "hinode-demo.markdumay.org"
+
+## Twitter Cards
+twitterSite = "@barefootbushwalk"
+# twitterCreator = "@markdumay"
+
+## JSON-LD
+schemaType = "Organization"
+schemaName = "Hinode"
+schemaAuthor = "Mark Dumay"
+schemaAuthorTwitter = "https://twitter.com/markdumay"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/markdumay/"
+schemaAuthorGitHub = "https://github.com/markdumay"
+schemaLocale = "en-US"
+schemaLogo = "logo512x512.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "logo1280x640.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+# schemaTwitter = "https://twitter.com/gethinode"
+# schemaLinkedIn = ""
+schemaGitHub = "https://github.com/markdumay/hugo-theme-hinode"
+schemaSection = "blog"
+
+
+[favicon]
+    logo = "img/favicon.png"
+    sizes = [16, 32, 48]
+
+[search]
+    enabled = true
+
+[toc]
+    enabled = true
+
+[style]
+    themeColor = "#f79307"
+    themeOpacity = "10"
+    themeFont = "Nunito"
+    themeFontPath = "https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;600&display=swap"
+
+[main]
+    featurePhoto = "img/sunrise.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
+    logo = "/img/logo_embedded.svg"
+
+[comments]
+    enabled = false
+    repo = "" # Replace with your repository.
+    #issueTerm = "pathname" # pathname, url, title, og:title
+    #label = "comment"
+    # By default, light and dark mode correspond to github-light and github-dark, respectively.
+    # Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
+    #theme = "" 
