@@ -1,0 +1,63 @@
+## Homepage
+title = "Barefoot Bushwalk"
+titleSeparator = "-"
+titleAddition = "A blog about being outside without shoes on."
+description = "Barefoot Bushwalk is a journal of my outdoor adventures, particularly with my kids and definitely with my shoes off."
+
+## Open Graph
+images = ["logo.png"]
+ogLocale = "en_GB"
+domainTLD = "barefootbushwalk.blog"
+
+## Twitter Cards
+twitterSite = "@barefootbushwalk"
+# twitterCreator = "@markdumay"
+
+## JSON-LD
+schemaType = "Organization"
+schemaName = "Barefoot Bushwalk"
+schemaAuthor = "Momar Hughes"
+schemaAuthorTwitter = "https://twitter.com/momargoh"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/momarhughes/"
+schemaAuthorGitHub = "https://github.com/momargoh"
+schemaLocale = "en-US"
+schemaLogo = "logo512x512.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "logo1280x640.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+# schemaTwitter = "https://twitter.com/gethinode"
+# schemaLinkedIn = ""
+schemaGitHub = "https://github.com/markdumay/hugo-theme-hinode"
+schemaSection = "blog"
+
+
+[favicon]
+logo = "img/favicon.png"
+sizes = [16, 32, 48]
+
+[search]
+enabled = true
+
+[toc]
+enabled = true
+
+[style]
+themeColor = "#582"
+themeOpacity = "10"
+themeFont = "Pacifico"
+themeFontPath = "https://fonts.googleapis.com/css2?family=Pacifico&display=swap"
+
+[main]
+featurePhoto = "https://dsm01pap002files.storage.live.com/y4mGk06Vya_jjJIH0SF2WL1stNr1u8ms3Is2jOIcOZHT4WvEmwNd9Lx9v8F8Gi4DAnc4k8I25ujcTxgufYavhqqXQqSmewAB0UKhoMn0qECChhKJFzWxx8ihCQahOVj5g1RDfa8Re-pyEe5E5eo16Igidl-z6Jp6F2Lkh9OCfAcDLXfxQ7QWlhYJdKPfSrRWI4y?width=256&height=192&cropmode=none" # source: https://unsplash.com/photos/ZX6BPboJrYk
+logo = "/img/logo_embedded.svg"
+
+[comments]
+enabled = false
+repo = "https://github.com/momargoh/barefootbushwalk" # Replace with your repository.
+#issueTerm = "pathname" # pathname, url, title, og:title
+#label = "comment"
+# By default, light and dark mode correspond to github-light and github-dark, respectively.
+# Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
+#theme = ""

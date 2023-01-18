@@ -1,0 +1,12 @@
+[en]
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 1
+    [en.params]
+        introTitle = "Barefoot Bushwalk"
+        introCaption = "A blog about the places we go with no shoes on."
+        introLink = "/about"
+        introLinkTitle = "About"
+        license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank'>CC BY-NC-SA 4.0</a>)."
+        socialTitle = "Walk with me..."
+        socialCaption = "I also have an Instagram account"
