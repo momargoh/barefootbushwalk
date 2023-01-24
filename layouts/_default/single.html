@@ -1,7 +1,13 @@
 {{ define "main" -}} {{ $lastmodstr := (partial "utilities/date.html" (dict
 "date" .Lastmod "format" "long")) -}} {{ $datestr := (partial
-"utilities/date.html" (dict "date" .Date "format" "long")) -}}
-
+"utilities/date.html" (dict "date" .Date "format" "long")) -}} {{ $scss :=
+resources.Get "scss/main.scss" }} {{ $style := $scss | resources.ToCSS |
+resources.Fingerprint }}
+<link
+  rel="stylesheet"
+  href="{{ $style.Permalink }}"
+  integrity="{{ $style.Data.Integrity }}"
+/>
 <div class="container-fluid">
   <div class="row row-cols-1 row-cols-sm-3 align-items-center p-3">
     <div class="col col-md-2 d-none d-md-block"></div>
@@ -22,8 +28,16 @@
         &nbsp;&bull;&nbsp; {{ end -}} {{ .ReadingTime }}&nbsp;{{ i18n
         "minutesShort" }} {{ i18n "read" }}</small
       >
-      {{ if .Params.alltrails -}}
-      <p>
+      <p class="post-param">
+        {{ if .Params.photoAlbum -}}
+        <small class="text-muted text-uppercase"> Photo Album:</small>
+        <a href="{{ .Params.photoAlbum}}" target="_blank">
+          {{ .Params.photoAlbum}}</a
+        >
+      </p>
+      {{ end -}} {{ if .Params.alltrails -}}
+
+      <p class="post-param">
         <small class="text-muted text-uppercase"> Alltrails:</small>
         <a href="{{ .Params.alltrails}}" target="_blank">
           {{ .Params.alltrails}}</a

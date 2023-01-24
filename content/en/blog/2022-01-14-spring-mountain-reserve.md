@@ -7,6 +7,7 @@ tags: ["bushwalk", "Nora"]
 thumbnail: https://dsm01pap002files.storage.live.com/y4meZ6GjAv0t7dv-wJLYl09IK0JFbAgLo0UZhKSJbHliGHXOFLUDQENIwqFKdJkD8wUwtIwJLL9kKoKqGJNyqazQcc0_YJdmblt1NZgIsQ5faglH2kiWuZ4_B-qZcyVGzJkrRG2awPPKfuMg_WSkA-2VhCPbgrJ2UhsTpq2dyqhY0niffZgMlwXRhB4XZlLi5UW?width=1024&height=768&cropmode=none
 photoCredits: The Barefoot Bushwalker
 photoSource: ""
+photoAlbum: https://1drv.ms/u/s!AoDhbp03NjvajaUpmUGcepYgj1NswA?e=ol9FcT
 alltrails: https://www.alltrails.com/trail/australia/queensland/spring-mountain-reserve-circuit
 ---
 
