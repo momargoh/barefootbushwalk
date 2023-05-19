@@ -1,7 +1,7 @@
 ---
 author: "The Barefoot Bushwalker"
 title: "Mount Barney - East Peak"
-date: 2022-01-21
+date: 2023-01-21
 description: "Ascent: South East Ridge. Descent: Peasants Ridge."
 tags: ["summit", "hike", "scramble", "Mount Barney National Park"]
 thumbnail: https://dsm01pap002files.storage.live.com/y4mxc-irH8ZyZ3I2i6GueCTVC_A22fhJ9WdUdV8HkxjPq3bO016KtxEI3Yv3uSjRbftvLK2ldEcoSD2ijAWaox_Q4yJlC4TSZXlm8FRset7XvVA3_4mxkcEPm4NoPBRqm2fLLk0Jr_7YpmFgSA3vDZAuTa1iahzzdUGy8DCL8PVg0OOTEuLcf6MUu7-cT6GXuRP?width=4608&height=2231&cropmode=none

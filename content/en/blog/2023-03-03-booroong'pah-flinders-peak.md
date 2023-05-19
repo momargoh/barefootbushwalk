@@ -1,7 +1,7 @@
 ---
 author: "The Barefoot Bushwalker"
 title: "Booroong'pah (Flinders Peak) summit"
-date: 2022-01-21
+date: 2023-03-03
 description: "Nice quick peak with lovely views and lovely Kirsty"
 tags:
   [
