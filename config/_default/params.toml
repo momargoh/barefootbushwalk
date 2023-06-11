@@ -51,7 +51,8 @@ themeFontPath = "https://fonts.googleapis.com/css2?family=Nunito&display=swap"
 
 [main]
 featurePhoto = "https://dsm01pap002files.storage.live.com/y4mGk06Vya_jjJIH0SF2WL1stNr1u8ms3Is2jOIcOZHT4WvEmwNd9Lx9v8F8Gi4DAnc4k8I25ujcTxgufYavhqqXQqSmewAB0UKhoMn0qECChhKJFzWxx8ihCQahOVj5g1RDfa8Re-pyEe5E5eo16Igidl-z6Jp6F2Lkh9OCfAcDLXfxQ7QWlhYJdKPfSrRWI4y?width=256&height=192&cropmode=none" # source: https://unsplash.com/photos/ZX6BPboJrYk
-logo = "/img/logo_embedded.svg"
+logo = "/img/logo.svg"
+schemaLogoHeight = 100
 
 [comments]
 enabled = false
